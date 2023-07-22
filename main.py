@@ -1,4 +1,4 @@
-import random #importin library
+import random #importin libraryy
 
 def generator(min,max,step=1):
     number = random.randrange(min, max, step)
